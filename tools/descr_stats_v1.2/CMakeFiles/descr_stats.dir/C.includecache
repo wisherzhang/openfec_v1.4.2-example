@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zengzhen/other/openfec/openfec_v1_4_2_zz_pthread_version0/openfec_v1_4_2/openfec_v1.4.2/tools/descr_stats_v1.2/descr_stats.c
+stdlib.h
+-
+stdio.h
+-
+unistd.h
+-
+string.h
+-
+errno.h
+-
+math.h
+-
+
